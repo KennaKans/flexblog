@@ -1,4 +1,4 @@
-#About
+# About
 
 Project created during the CSS Flexbox course by Origamid. 
 
